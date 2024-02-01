@@ -1,18 +1,19 @@
 # new-pause
-
 [
  "autômatos fantasmáticos"
  "phantasmatic automata des cristo crucificado blightvaporize deuce from unconscious mind"
  "cristo crucificado blightvaporized to phantasmatic automata des deuce from unconscious mind"
  "stille nach dem "
- "titanium leviathan tubonite ladet die wellen ein"
- "titanium leviathan tubonite ladet die wellen ein"
+ "bulb-stretch of one-pulse-still-motion-fog ueberall shroud"
+
+ "titanium leviathan tubonite punktiert die wellen æonen apart"
  "leere raeume, twistors, manni falts errant ueberall"
  "fu OOOHHHHHHHHH  r cht"
- "kyberpsylinderherz klopf klopf klopf stahl herz stahl"
+ "kyberpsylinderherz klopf klopf klopf stahl per-blink stahl"
  "spul spul spul"
  "sleaze unds feuer"
- "polier polier nagel ritter, hersch des libidinals ueber, per capita"
+ "polier polier nagel ritter, hersch des libidinals ueber, per capita, acephalous kramp sich-selbst-fressende jouissance"
+ "rutsch inductor magnetofuck"
 
  "eFeu um hals, kudzu feuerzelle, gruene waende, glitchfeuerfoam und sharfenwellensee"
 
@@ -26,7 +27,7 @@
 
  "haut-e-e-rutsch rapture kaltes schlack Nfah-h-ah#bluegrey-ah#greengrey-ah#redgrey-ah#purplegrey-..."
 
- "skorpionschwanz ⎉"
+ "incest artosis des tail call blood law"
 
- "pump pump pendula pendula"
+ "pump pendula  pump pendula"
  ]
