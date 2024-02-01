@@ -1,7 +1,6 @@
 (doseq [line [
               "autômatos fantasmáticos"
-              "phantasmatic automata des cristo crucificado blightvaporize deuce from unconscious mind"
-              "cristo crucificado blightvaporized to phantasmatic automata des deuce from unconscious mind"
+              "cristo crucificado blightvaporized to phantasmatic automata des deuce von unconscious mind aus"
               "stille nach dem "
               "bulb-stretch of one-pulse-still-motion-fog ueberall shroud"
 
