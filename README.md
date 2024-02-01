@@ -1,5 +1,5 @@
 # new-pause
-[
+
  "autômatos fantasmáticos"
  "phantasmatic automata des cristo crucificado blightvaporize deuce from unconscious mind"
  "cristo crucificado blightvaporized to phantasmatic automata des deuce from unconscious mind"
@@ -30,4 +30,4 @@
  "incest artosis des tail call blood law"
 
  "pump pendula  pump pendula"
- ]
+ 
