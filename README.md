@@ -12,11 +12,11 @@
  "kyberpsylinderherz klopf klopf klopf stahl herz stahl"
  "spul spul spul"
  "sleaze unds feuer"
- "polier polier nagel ritter aufs cadillac$kin"
+ "polier polier nagel ritter, hersch des libidinals ueber, per capita"
 
- "eFeu um hals, kudzu feuerzelle, gruene waende, meer des feuer und ertrunkene haut"
+ "eFeu um hals, kudzu feuerzelle, gruene waende, glitchfeuerfoam und sharfenwellensee"
 
- "beeren der krankheit ums ascendance twist des fleischgestalt pro lila"
+ "krankheitsplumen ums ascendance twist des fleischgestalt pro lila"
 
  "inductor trova"
 
@@ -24,11 +24,8 @@
 
  "*stahl echo*"
 
- "himmelnah"
- 
  "haut-e-e-rutsch rapture kaltes schlack Nfah-h-ah#bluegrey-ah#greengrey-ah#redgrey-ah#purplegrey-..."
 
- "so weit entfernt  trotz so nah"
  "skorpionschwanz ⎉"
 
  "pump pump pendula pendula"
